@@ -1,0 +1,7 @@
+Some questions to consider, and ask at some point:
+
+1) Should there be anti-spam checks for forms, or should most just need login?
+ - If there are spam checks, they will be editable in the settings, rather than being on every form page. Certain spam words
+ tend to cause problems for certain TCGs, so it'd have to be easily editable.
+   - EX: Nidalee (League of Legends) is called the "Bestial Huntress", but 'bestial" is
+        considered spam. It also doesn't consider spaces, so anything Koda Kumi has problems with "kum".
