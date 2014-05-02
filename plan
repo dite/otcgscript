@@ -1,0 +1,38 @@
+These are the initial plans for the script:
+
+CORE SCRIPT----------
+ - Affiiliates
+ - Link Buttons
+ - Decks / Upcoming Decks
+  - Decks: includes table fields for "Category, Deck Name, File Name, Desc1, Desc2, Set" ***
+  - Upcoming Decks: includes table fields for "Category, Deck Name, File Name, Desc1, Desc2, Set, Votes, Made"
+  - Worth and count would be decided by the Category.
+ 
+DECK FIELDS NOTE: The Desc1, Desc2, and Set will be optional, required or even hidden, depending on what Cards page you have.
+                  Also, Desc1 and Desc2 will just be the table names. You will be able to define them in your Settings.
+DECK FIELDS EX: An example of how it could be useful to use ALL fields.
+
+Overdrive's Yuna Deck (http://carbonbeauty.net/overdrive/viewcards.php?deck=summoner)
+ Category: Character
+ Deck Name: Summoner
+ File Name: summoner
+ Desc1 (as Subject): Yuna
+ Desc2 (as Description): Yuna is a young summoner who defeats Sin.
+ Set: Final Fantasy
+ 
+UPCOMING DECKS NOTE: Most things would be optional (such as File Name and Deck Name). Made would be a "Y" or "N" option
+                     to say whether or not the deck has been created. As an if statement, could be used to divide "Upcoming"
+                     and "Unreleased" decks.
+ 
+OPTIONAL SCRIPTS-----
+ - About pages
+  - There will not be an About page included in the core script, as it should usually be different for each TCG. But, there
+    will be optional pages. There will be a basic About page that uses information you input for a generic information page,
+    as well as a Section-By-Section option that gives you sections that you can edit yourself. It'll be your words and info.
+    The SBS version will just make sure you got everything members would need.
+ - Different Card Management pages.
+  - The core script will include a basic cards page without fields for "Desc2, Sets".
+  - There will be a 
+ - Deck Voting Script
+  - While the "votes" field will be in the core, the actual script will be optional, and an include a "Reset Votes" option
+    for those who don't want votes to carry over.
