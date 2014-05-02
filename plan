@@ -7,7 +7,9 @@ CORE SCRIPT----------
   - Decks: includes table fields for "Category, Deck Name, File Name, Desc1, Desc2, Set" ***
   - Upcoming Decks: includes table fields for "Category, Deck Name, File Name, Desc1, Desc2, Set, Votes, Made"
   - Worth and count would be decided by the Category.
- 
+ - Credits page
+  - You'd be able to add other credits, but it will give the basic credits you should need (ex: Calico), as well as
+  as well as suggestions and reminders on who should be credited.
 DECK FIELDS NOTE: The Desc1, Desc2, and Set will be optional, required or even hidden, depending on what Cards page you have.
                   Also, Desc1 and Desc2 will just be the table names. You will be able to define them in your Settings.
 DECK FIELDS EX: An example of how it could be useful to use ALL fields.
