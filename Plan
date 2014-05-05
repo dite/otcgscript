@@ -3,11 +3,14 @@ These are the initial plans for the script:
 CORE SCRIPT----------
  - Affiiliates
  - Link Buttons
+  - Image uploader, auto-sorter, & renamer (88x3100-donator.png)
+ - Level Badges
  - Decks / Upcoming Decks
   - Decks: includes table fields for "Category, Deck Name, File Name, Desc1, Desc2, Set" ***
   - Upcoming Decks: includes table fields for "Category, Deck Name, File Name, Desc1, Desc2, Set, Votes, Made"
   - Worth and count would be decided by the Category.
  - Member pages
+ - Custom Mastery / Level Ups
  - Credits page
   - You'd be able to add other credits, but it will give the basic credits you should need (ex: Calico), as well as
   as well as suggestions and reminders on who should be credited.
@@ -39,3 +42,7 @@ OPTIONAL SCRIPTS-----
  - Deck Voting Script
   - While the "votes" field will be in the core, the actual script will be optional, and an include a "Reset Votes" option
     for those who don't want votes to carry over.
+ - Donation Scripts
+  - Claims and submissions will be automated.
+ - Money system
+ 
